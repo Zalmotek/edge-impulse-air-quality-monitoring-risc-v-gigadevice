@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#include <Air_Quality_Monitoring_-_SIPEED_LONGAN_NANO_inferencing.h>
+#include <SipeedLonganNano-_AQM_inferencing.h>
 #define FREQUENCY_HZ        EI_CLASSIFIER_FREQUENCY
 #define INTERVAL_MS         (1000 / (FREQUENCY_HZ + 1))
 

@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "/home/mihnea/Documents/PlatformIO/Projects/LonganArduino/include",
-                "/home/mihnea/Documents/PlatformIO/Projects/LonganArduino/src",
+                "/home/mihnea/Documents/PlatformIO/Projects/EdgeImpulse_air_quality_monitoring_with_SIPEED_LONGAN_NANO_RISC-V_Gigadevice/LonganAnalogRead/include",
+                "/home/mihnea/Documents/PlatformIO/Projects/EdgeImpulse_air_quality_monitoring_with_SIPEED_LONGAN_NANO_RISC-V_Gigadevice/LonganAnalogRead/src",
                 "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino",
                 "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/deprecated-avr-comp",
                 "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/GD32VF103_Firmware_Library/GD32VF103_standard_peripheral",
@@ -48,8 +48,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/home/mihnea/Documents/PlatformIO/Projects/LonganArduino/include",
-                    "/home/mihnea/Documents/PlatformIO/Projects/LonganArduino/src",
+                    "/home/mihnea/Documents/PlatformIO/Projects/EdgeImpulse_air_quality_monitoring_with_SIPEED_LONGAN_NANO_RISC-V_Gigadevice/LonganAnalogRead/include",
+                    "/home/mihnea/Documents/PlatformIO/Projects/EdgeImpulse_air_quality_monitoring_with_SIPEED_LONGAN_NANO_RISC-V_Gigadevice/LonganAnalogRead/src",
                     "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino",
                     "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/deprecated-avr-comp",
                     "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/GD32VF103_Firmware_Library/GD32VF103_standard_peripheral",
