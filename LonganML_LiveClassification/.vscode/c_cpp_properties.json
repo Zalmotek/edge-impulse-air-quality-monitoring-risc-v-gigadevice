@@ -1,0 +1,112 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "/home/mihnea/Documents/PlatformIO/Projects/LonganML_LiveClassification/include",
+                "/home/mihnea/Documents/PlatformIO/Projects/LonganML_LiveClassification/src",
+                "/home/mihnea/Documents/PlatformIO/Projects/LonganML_LiveClassification/lib/Air_Quality_Monitoring_-_SIPEED_LONGAN_NANO_inferencing/src",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/deprecated-avr-comp",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/GD32VF103_Firmware_Library/GD32VF103_standard_peripheral",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/GD32VF103_Firmware_Library/GD32VF103_standard_peripheral/Include",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/GD32VF103_Firmware_Library/GD32VF103_usbfs_driver",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/GD32VF103_Firmware_Library/GD32VF103_usbfs_driver/Include",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/GD32VF103_Firmware_Library/RISCV/drivers",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/GD32VF103_Firmware_Library/RISCV/env_Eclipse",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/GD32VF103_Firmware_Library/RISCV/stubs",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/variants/sipeed-longan-nano",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/Adafruit-GFX-Library",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/FATFS/src",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/GD32V/src",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/LCD/src",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/SD/src",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/SPI/src",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/SPIMemory/src",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/Seeed_Arduino_LCD",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/Seeed_GD32V_EXMC/src",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/Sipeed_GD32V_LCD/src",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/SysTick/src",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/TF_CARD/src",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/Ticker/src",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/USBAudio/src",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/USBCDC/src",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/USBDEV/src",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/USBDEVHW/src",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/USBFS/src",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/USBHID/src",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/USBHOST/src",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/USBMSC/src",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/WiFiEsp/src",
+                "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/Wire/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/home/mihnea/Documents/PlatformIO/Projects/LonganML_LiveClassification/include",
+                    "/home/mihnea/Documents/PlatformIO/Projects/LonganML_LiveClassification/src",
+                    "/home/mihnea/Documents/PlatformIO/Projects/LonganML_LiveClassification/lib/Air_Quality_Monitoring_-_SIPEED_LONGAN_NANO_inferencing/src",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/deprecated-avr-comp",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/GD32VF103_Firmware_Library/GD32VF103_standard_peripheral",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/GD32VF103_Firmware_Library/GD32VF103_standard_peripheral/Include",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/GD32VF103_Firmware_Library/GD32VF103_usbfs_driver",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/GD32VF103_Firmware_Library/GD32VF103_usbfs_driver/Include",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/GD32VF103_Firmware_Library/RISCV/drivers",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/GD32VF103_Firmware_Library/RISCV/env_Eclipse",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/GD32VF103_Firmware_Library/RISCV/stubs",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/variants/sipeed-longan-nano",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/Adafruit-GFX-Library",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/FATFS/src",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/GD32V/src",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/LCD/src",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/SD/src",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/SPI/src",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/SPIMemory/src",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/Seeed_Arduino_LCD",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/Seeed_GD32V_EXMC/src",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/Sipeed_GD32V_LCD/src",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/SysTick/src",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/TF_CARD/src",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/Ticker/src",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/USBAudio/src",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/USBCDC/src",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/USBDEV/src",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/USBDEVHW/src",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/USBFS/src",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/USBHID/src",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/USBHOST/src",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/USBMSC/src",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/WiFiEsp/src",
+                    "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/Wire/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60002",
+                "USE_STDPERIPH_DRIVER",
+                "HXTAL_VALUE=8000000U",
+                "ARDUINO=10805",
+                "ARDUINO_VARIANT=\"sipeed-longan-nano\"",
+                "ARDUINO_BOARD=\"BOARD_SIPEED_LONGAN_NANO\"",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "compilerPath": "/home/mihnea/.platformio/packages/toolchain-gd32v/bin/riscv-nuclei-elf-gcc",
+            "compilerArgs": [
+                "-march=rv32imac",
+                "-mabi=ilp32",
+                "-mcmodel=medlow",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
