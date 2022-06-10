@@ -10,6 +10,7 @@
             "includePath": [
                 "/home/mihnea/Documents/PlatformIO/Projects/EdgeImpulse_air_quality_monitoring_with_SIPEED_LONGAN_NANO_RISC-V_Gigadevice/LonganML_LiveClassification/include",
                 "/home/mihnea/Documents/PlatformIO/Projects/EdgeImpulse_air_quality_monitoring_with_SIPEED_LONGAN_NANO_RISC-V_Gigadevice/LonganML_LiveClassification/src",
+                "/home/mihnea/Documents/PlatformIO/Projects/EdgeImpulse_air_quality_monitoring_with_SIPEED_LONGAN_NANO_RISC-V_Gigadevice/LonganML_LiveClassification/lib/Air_Quality_Monitoring_-_SIPEED_LONGAN_NANO_inferencing/src",
                 "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino",
                 "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/deprecated-avr-comp",
                 "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/GD32VF103_Firmware_Library/GD32VF103_standard_peripheral",
@@ -20,7 +21,6 @@
                 "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/GD32VF103_Firmware_Library/RISCV/env_Eclipse",
                 "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/GD32VF103_Firmware_Library/RISCV/stubs",
                 "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/variants/sipeed-longan-nano",
-                "/home/mihnea/Documents/PlatformIO/Projects/EdgeImpulse_air_quality_monitoring_with_SIPEED_LONGAN_NANO_RISC-V_Gigadevice/LonganML_LiveClassification/lib/SipeedLonganNano-_AQM_inferencing/src",
                 "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/Adafruit-GFX-Library",
                 "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/FATFS/src",
                 "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/GD32V/src",
@@ -51,6 +51,7 @@
                 "path": [
                     "/home/mihnea/Documents/PlatformIO/Projects/EdgeImpulse_air_quality_monitoring_with_SIPEED_LONGAN_NANO_RISC-V_Gigadevice/LonganML_LiveClassification/include",
                     "/home/mihnea/Documents/PlatformIO/Projects/EdgeImpulse_air_quality_monitoring_with_SIPEED_LONGAN_NANO_RISC-V_Gigadevice/LonganML_LiveClassification/src",
+                    "/home/mihnea/Documents/PlatformIO/Projects/EdgeImpulse_air_quality_monitoring_with_SIPEED_LONGAN_NANO_RISC-V_Gigadevice/LonganML_LiveClassification/lib/Air_Quality_Monitoring_-_SIPEED_LONGAN_NANO_inferencing/src",
                     "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino",
                     "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/deprecated-avr-comp",
                     "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/GD32VF103_Firmware_Library/GD32VF103_standard_peripheral",
@@ -61,7 +62,6 @@
                     "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/GD32VF103_Firmware_Library/RISCV/env_Eclipse",
                     "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/cores/arduino/GD32VF103_Firmware_Library/RISCV/stubs",
                     "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/variants/sipeed-longan-nano",
-                    "/home/mihnea/Documents/PlatformIO/Projects/EdgeImpulse_air_quality_monitoring_with_SIPEED_LONGAN_NANO_RISC-V_Gigadevice/LonganML_LiveClassification/lib/SipeedLonganNano-_AQM_inferencing/src",
                     "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/Adafruit-GFX-Library",
                     "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/FATFS/src",
                     "/home/mihnea/.platformio/packages/framework-arduino-gd32v@src-f669630ee8c088eef69e768f316da8b2/libraries/GD32V/src",
