@@ -1,9 +1,9 @@
 #include <Arduino.h>
 
-int MiCs = PA6; //GND= 0, 5V=4095
-int MQ5 = PA7; //PA4: GND= 110, 5V=4095
-int MQ7 = PB0; //GND= 0, 5V=4095
-int MQ3 = PB1; //PA6: GND= 110, 5V=4095 
+int MiCs = PA6; 
+int MQ5 = PA7; 
+int MQ7 = PB0; 
+int MQ3 = PB1; 
 
 
 int valMiCs = 0; 
