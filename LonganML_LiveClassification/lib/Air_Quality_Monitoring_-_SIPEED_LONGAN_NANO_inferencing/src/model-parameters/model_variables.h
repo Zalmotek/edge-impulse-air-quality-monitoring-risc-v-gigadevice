@@ -26,7 +26,7 @@
 #include "model_metadata.h"
 #include "edge-impulse-sdk/classifier/ei_model_types.h"
 
-const char* ei_classifier_inferencing_categories[] = { "Alcohol Leakage", "BaseLevel", "Butane Leakage" };
+const char* ei_classifier_inferencing_categories[] = { "Alcohol Leakage", "Base Level", "Methane Leakage" };
 
 uint8_t ei_dsp_config_28_axes[] = { 0, 1, 2, 3 };
 const uint32_t ei_dsp_config_28_axes_size = 4;
