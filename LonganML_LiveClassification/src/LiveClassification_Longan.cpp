@@ -7,15 +7,15 @@ static unsigned long last_interval_ms = 0;
 // to classify 1 frame of data you need EI_CLASSIFIER_DSP_INPUT_FRAME_SIZE values
 //float features[EI_CLASSIFIER_DSP_INPUT_FRAME_SIZE];
 static float features[EI_CLASSIFIER_DSP_INPUT_FRAME_SIZE] = {};
-//float features[40];
+
 // keep track of where we are in the feature array
 size_t feature_ix = 0;
 
 
-int MiCs = PA6; //GND= 0, 5V=4095
-int MQ5 = PA7; //PA4: GND= 110, 5V=4095
-int MQ7 = PB0; //GND= 0, 5V=4095
-int MQ3 = PB1; //PA6: GND= 110, 5V=4095 
+int MiCs = PA6;
+int MQ5 = PA7; 
+int MQ7 = PB0; 
+int MQ3 = PB1; 
 static float valMiCs = 0; 
 static float valMQ5 = 0;
 static float valMQ7 = 0; 
